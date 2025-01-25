@@ -1,3 +1,3 @@
-# Começando estudos em Node.js
+# Starting Studies in Node.js
 
-Neste repositório tema intenção de praticar node.js, onde realizei uma aplicação com o intuito de ser um buscador de livros por gênero, nome, quantidade de páginas.🕵️‍♂🤓👨🏻‍💻
+In this repository, the goal is to practice Node.js by creating an application intended to be a book search engine by genre, name, or number of pages. 🕵️‍♂🤓👨🏻‍💻
